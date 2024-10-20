@@ -1,0 +1,9 @@
+Hello!
+
+To install BreadGDPS, first download BreadGDPS.zip from the latest release.
+
+After that extract it and open BreadGDPS.exe
+
+Antivirus will likely flag .dll files and connections so allow them.
+
+And you can now sign up/log in and play BreadGDPS!
